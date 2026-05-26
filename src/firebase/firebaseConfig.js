@@ -1,12 +1,12 @@
 import { initializeApp } from 'firebase/app';
 
 const firebaseConfig = {
-  apiKey: 'YOUR_API_KEY',
-  authDomain: 'YOUR_AUTH_DOMAIN',
-  projectId: 'YOUR_PROJECT_ID',
-  storageBucket: 'YOUR_STORAGE_BUCKET',
-  messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
-  appId: 'YOUR_APP_ID',
+  apiKey: 'AIzaSyA7e9rwSTlRLMTyBr2HnMjODYNMcRia-QY',
+  authDomain: 'remindernotifapp009.firebaseapp.com',
+  projectId: 'remindernotifapp009',
+  storageBucket: 'remindernotifapp009.firebasestorage.app',
+  messagingSenderId: '640285667262',
+  appId: '1:640285667262:android:e8f53089f0316192ce93ef',
 };
 
 const app = initializeApp(firebaseConfig);
