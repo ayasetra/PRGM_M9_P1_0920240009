@@ -66,7 +66,7 @@ export default function HomeScreen() {
             </Text>
 
             <Text style={styles.label}>
-                Device Token:
+                Device Token edit:
             </Text>
 
             <Text style={styles.token}>
